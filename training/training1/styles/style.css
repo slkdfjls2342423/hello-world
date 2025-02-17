@@ -1,0 +1,19 @@
+nav {
+    background-color: #eee;
+    height: 36px;
+    color: white;
+    font-size: 26px;
+}
+nav>a{
+    color: #222;
+    display: block;
+    float: left;
+    height: 26px;
+    padding: 5px;
+}
+nav>a:hover{
+    background-color: #00b11b;
+}
+nav:first-child:hover{
+    background-color: #eee;
+}
